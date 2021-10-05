@@ -40,9 +40,6 @@ function compositeStylesheet() {
   animation += "body {\n";
   animation += "  margin: 0;\n";
   animation += "  overflow: hidden;\n";
-  animation += "}\n";
-  animation += "\n";
-  animation += "#display {\n";
   animation += "  width: 100%;\n";
   animation += "  height: 100%;\n";
   animation += "  will-change: background;\n";
