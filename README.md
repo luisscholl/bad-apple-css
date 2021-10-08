@@ -2,7 +2,9 @@
 
 This converter is written for playing the [Bad Apple!! PV](https://youtu.be/FtutLA63Cp8) using pure CSS.
 
-See it [in the browser](https://luisscholl.de/bad-apple).
+See it [here on YouTube](https://youtu.be/pl57fXuotOM).
+
+To see it in your own browser, clone the repository and open the index.html in a Chromium based browser, e.g. Chrome. (Firefox flickers. Once I got a CDN in place, the content delivery might be fast enough to put a link here.)
 
 ## Installation
 
